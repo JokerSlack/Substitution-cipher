@@ -1,0 +1,4 @@
+# requirements.txt
+# No third-party libraries required. Works with Python >=3.8
+
+
